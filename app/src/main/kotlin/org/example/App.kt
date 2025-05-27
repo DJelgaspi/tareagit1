@@ -11,5 +11,9 @@ class App {
 }
 
 fun main() {
-    println(App().greeting)
+    val objeto = Complejo()
+    objeto=Complejo()
+    println("Objeto Complejo creado")
+    var x:Int=1
+    var x:Int=2
 }
